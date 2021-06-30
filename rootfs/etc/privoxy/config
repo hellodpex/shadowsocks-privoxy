@@ -26,6 +26,23 @@ forward-socks5  .dropbox*.com 127.0.0.1:7070  .
 forward-socks5  .*google*.* 127.0.0.1:7070  .
 forward-socks5  .*facebook*.* 127.0.0.1:7070  .
 forward-socks5  .*twitter*.* 127.0.0.1:7070  .
+forward-socks5  .*themoviedb*.* 127.0.0.1:7070  .
+forward-socks5  .*opensubtitles*.* 127.0.0.1:7070  .
+forward-socks5  .*wikipedia*.* 127.0.0.1:7070  .
+forward-socks5  .*youtube*.* 127.0.0.1:7070  .
+forward-socks5  .*live*.* 127.0.0.1:7070  .
+forward-socks5  .*yahoo*.* 127.0.0.1:7070  .
+forward-socks5  .*netflix*.* 127.0.0.1:7070  .
+forward-socks5  .*instagram*.* 127.0.0.1:7070  .
+forward-socks5  .*twitch*.* 127.0.0.1:7070  .
+forward-socks5  .*xvideos*.* 127.0.0.1:7070  .
+forward-socks5  .*pornhub*.* 127.0.0.1:7070  .
+forward-socks5  .*imdb*.* 127.0.0.1:7070  .
+forward-socks5  .*whatsapp*.* 127.0.0.1:7070  .
+forward-socks5  .*spotify*.* 127.0.0.1:7070  .
+forward-socks5  .*quora*.* 127.0.0.1:7070  .
+forward-socks5  .*telegram*.* 127.0.0.1:7070  .
+forward-socks5  .*yandex*.* 127.0.0.1:7070  .
 
 forwarded-connect-retries  0
 
